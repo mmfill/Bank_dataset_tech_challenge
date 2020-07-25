@@ -1,5 +1,5 @@
 # Bank_dataset_tech_challenge
-Cleaning and analysis challenge of a multi-table data set of a dummy bank
+Cleaning and analysis challenge of a multi-table data set of a dummy bank. The dataset is available here: https://drive.google.com/file/d/1XAC-bK29qppHwQHrwVGBa4yCH6ocD7iL/view?usp=sharing
 
 Given is a dataset of eight csv files. The goal is to prepare the dataset for analysis and work through five questions in the analysis phase. For a better understanding all tasks are performed in Jupyter notebooks.
 
