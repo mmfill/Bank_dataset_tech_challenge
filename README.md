@@ -3,8 +3,11 @@ Cleaning and analysis challenge of a multi-table data set of a dummy bank. The d
 
 Given is a dataset of eight csv files. The goal is to prepare the dataset for analysis and work through five questions in the analysis phase. For a better understanding all tasks are performed in Jupyter notebooks.
 
-Programming language: Python 3
-packages
+Programming language: 
+- Python 3
+
+Packages
+```sh
 import numpy as np
 import pandas as pd
 import datetime
@@ -18,6 +21,7 @@ from sklearn.ensemble import AdaBoostClassifier
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 from sklearn.preprocessing import MinMaxScaler
+```
 
 TASKS
 Cleaning:
